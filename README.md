@@ -6,7 +6,7 @@ Hyperbolic Graph Convolutional Auto-Encoders
 
 Official PyTorch code of [**Unsupervised Hyperbolic Representation Learning via Message Passing Auto-Encoders**]()
 
-**[Jiwoong Park](http://pil.snu.ac.kr/member/view.do?idx=63)&ast;, 
+**[Jiwoong Park](https://jiwoongpark92.github.io)&ast;, 
 [Junho Cho](http://tmmse.xyz/junhocho/)&ast;, Hyung Jin Chang, Jin Young Choi** <sub>(\* indicates equal contribution)</sub>
 
 ![vis_cora](./images/fig_cora_small.png)
