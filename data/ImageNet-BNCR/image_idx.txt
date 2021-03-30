@@ -1,0 +1,9 @@
+n07742313 Granny smith 
+n07749582 Lemon
+n07754684 Jackfruit
+n02701002 Ambulance
+n04146614 School bus
+n03218198 Dogsled
+n01614925 Bald eagle
+n02643566 Lionfish
+n02007558 Flamingo
