@@ -4,7 +4,7 @@ Hyperbolic Graph Convolutional Auto-Encoders
 **Accepted to **CVPR2021** :tada:**
 
 
-Official PyTorch code of [**Unsupervised Hyperbolic Representation Learning via Message Passing Auto-Encoders**]()
+Official PyTorch code of [**Unsupervised Hyperbolic Representation Learning via Message Passing Auto-Encoders**](http://arxiv.org/abs/2103.16046)
 
 **[Jiwoong Park](https://jiwoongpark92.github.io)&ast;, 
 [Junho Cho](http://tmmse.xyz/junhocho/)&ast;, Hyung Jin Chang, Jin Young Choi** <sub>(\* indicates equal contribution)</sub>
@@ -145,12 +145,4 @@ This work is licensed under the MIT License
 
 ## Citation
 
-
-```
-@article{park2021hgcae,
-title={Unsupervised Hyperbolic Representation Learning via Message Passing Auto-Encoders},
-author={Park, Jiwoong and Cho, Junho and Chang, Hyung Jin and Choi, Jin Young},
-year={2021},
-journal={arXiv preprint arXiv:XXXXX},
-}
-```
+To be updated soon.
