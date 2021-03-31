@@ -145,4 +145,9 @@ This work is licensed under the MIT License
 
 ## Citation
 
-To be updated soon.
+@inproceedings{park2021unsupervised,
+  title={Unsupervised Hyperbolic Representation Learning via Message Passing Auto-Encoders},
+  author={Jiwoong Park and Junho Cho and Hyung Jin Chang and Jin Young Choi},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  year={2021}
+}
