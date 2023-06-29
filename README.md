@@ -7,7 +7,7 @@ Hyperbolic Graph Convolutional Auto-Encoders
 Official PyTorch code of [**Unsupervised Hyperbolic Representation Learning via Message Passing Auto-Encoders**](http://arxiv.org/abs/2103.16046)
 
 **[Jiwoong Park](https://jiwoongpark92.github.io)&ast;, 
-[Junho Cho](http://tmmse.xyz/junhocho/)&ast;, Hyung Jin Chang, Jin Young Choi** <sub>(\* indicates equal contribution)</sub>
+[Junho Cho](https://sudormrf.run/junhocho/)&ast;, Hyung Jin Chang, Jin Young Choi** <sub>(\* indicates equal contribution)</sub>
 
 ![vis_cora](./images/fig_cora_small.png)
 <sub>Embeddings of cora dataset. [GAE](https://github.com/tkipf/gae) is Graph Auto-Encoders in Euclidean space, HGCAE is our method. P is Poincare ball, H is Hyperboloid.</sub>
